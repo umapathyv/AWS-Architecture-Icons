@@ -13,4 +13,4 @@ please feel free to open a pull request.
 ### Drawing products or services where you can already use these icons:
  - [Draw.io](https://www.draw.io/?splash=0&libs=aws4)
 
-CloudZero makes no claims of ownership or copyright to this work, see LICENSE for more details.
+CloudZero makes no claims of ownership or copyright to this work, see [LICENSE](https://github.com/Cloudzero/AWS-Architecture-Icons/blob/master/LICENSE) for more details.
